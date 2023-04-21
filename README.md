@@ -26,7 +26,6 @@ The app utilizes the openweathermap.org API to retrieve weather data, which incl
 
 **All repositories and viewmodels covered with unit tests**
 
-Thank you for using our app.
 
 
 
